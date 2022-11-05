@@ -7,6 +7,23 @@ Landing Page para site de venda de passagens para a lua. A página contém um po
 ## Link do projeto:
 <a href="https://www.figma.com/file/Lll2vT3EZlgaaFRXPKXEz1/Visit-Moon?node-id=2%3A2" target=”_blank”>Figma</a>
 
+## Índice:
+<a href="https://github.com/vitorgaioso/Visit-Moon/edit/main/README.md#preview">Preview</a><br>
+<a href="https://github.com/vitorgaioso/Visit-Moon/edit/main/README.md#efeitos-da-p%C3%A1gina">Efeitos da Página</a><br>
+<a href="https://github.com/vitorgaioso/Visit-Moon/edit/main/README.md#1---navbar">1 - Navbar</a><br>
+<a href="https://github.com/vitorgaioso/Visit-Moon/edit/main/README.md#2---lua-principal">2 - Lua principal</a><br>
+<a href="https://github.com/vitorgaioso/Visit-Moon/edit/main/README.md#3---seta-e-c%C3%ADrculo">3 - Seta e círculo</a><br>
+<a href="https://github.com/vitorgaioso/Visit-Moon/edit/main/README.md#4---informa%C3%A7%C3%B5es">4 - Informações</a><br>
+<a href="https://github.com/vitorgaioso/Visit-Moon/edit/main/README.md#5---linhas">5 - Linhas</a><br>
+<a href="https://github.com/vitorgaioso/Visit-Moon/edit/main/README.md#6---galeria">6 - Galeria</a><br>
+<a href="https://github.com/vitorgaioso/Visit-Moon/edit/main/README.md#7---como-visitar-a-lua">7 - Como visitar a lua</a><br>
+<a href="https://github.com/vitorgaioso/Visit-Moon/edit/main/README.md#8---passagens">8 - Passagens</a><br>
+<a href="https://github.com/vitorgaioso/Visit-Moon/edit/main/README.md#9---linhas-2">9 - Linhas 2</a><br>
+<a href="https://github.com/vitorgaioso/Visit-Moon/edit/main/README.md#10---depoimentos">10 - Depoimentos</a><br>
+<a href="https://github.com/vitorgaioso/Visit-Moon/edit/main/README.md#11---background">11 - Background</a><br>
+<a href="https://github.com/vitorgaioso/Visit-Moon/edit/main/README.md#p%C3%A1gina-completa">Página Completa</a><br>
+<a href="https://github.com/vitorgaioso/Visit-Moon/edit/main/README.md#design-system-resumido">Design System resumido</a><br>
+
 ## Preview:
 <img src="https://github.com/vitorgaioso/Visit-Moon/blob/main/Preview%201.jpg">
 <img src="https://raw.githubusercontent.com/vitorgaioso/Visit-Moon/main/preview%202.jpg">
@@ -83,5 +100,7 @@ Estrelas em destaque brilhando e piscando individualmente.
 Tipografia: Ariergard Rondo Book, Regular, Medium & Demibold. <br>
 Font size: Logo: 44px, Menu: 22px, Text: 24px, Títulos: 54px. <br>
 Cores: #464646, #444444, #262626, #889AC9. <br>
+
+Mais informações e referências direto no arquivo da landing page no <a href="https://www.figma.com/file/Lll2vT3EZlgaaFRXPKXEz1/Visit-Moon?node-id=0%3A1" target="blank">Figma</a>.
 
 
